@@ -1,5 +1,5 @@
 # Notebooks em Finanças
-Coleção de notebooks em finanças quantitativas.
+Uma coleção de notebooks em finanças quantitativas.
 
 ## Sumário
 ### long_short_trees.ipynb:
