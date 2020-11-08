@@ -2,7 +2,7 @@
 Uma coleção de notebooks em finanças quantitativas em português.
 
 ## Sumário
-### factor_regression_analysis_top10FIAs.ipynb:
+### [factor_regression_analysis_top10FIAs.ipynb](https://github.com/enriquemq/finance_notebooks/blob/main/factor_regression_analysis_top10FIAs.ipynb):
   - **Tópicos**: factor analysis, risk factors, fundos de investimento, alpha, fama french
   - **Resumo**: Busco evidências de habilidade dos gestores dos 10 maiores fundos de ações livres em termos de patrimônio líquido. Inspirado em Fama e French, 2010.
   
