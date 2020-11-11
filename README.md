@@ -1,5 +1,5 @@
 # Notebooks em Finanças
-Uma coleção de notebooks em finanças quantitativas em português.
+Uma coleção (em construção) de notebooks em finanças quantitativas em português.
 
 ## Sumário
 ### [factor_regression_analysis_top10FIAs.ipynb](https://github.com/enriquemq/finance_notebooks/blob/main/factor_regression_analysis_top10FIAs.ipynb):
