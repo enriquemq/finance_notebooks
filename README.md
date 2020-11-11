@@ -12,4 +12,4 @@ Uma coleção (em construção) de notebooks em finanças quantitativas em portu
 
 ### [var_vs_machine_learning.ipynb](https://github.com/enriquemq/finance_notebooks/blob/main/var_vs_machine_learning.ipynb):
   - **Tópicos:** forecasting, macroeconomia, inflação, machine learning, var, vetor autoregressivo
-  - **Resumo**:Usando o mesmo conjunto de variáveis preditivas para todos os modelos, analiso a performance de um modelo de vetor autoregressivo com a performance de alguns modelos da literatura de machine learning.
+  - **Resumo**: Usando o mesmo conjunto de variáveis preditivas para todos os modelos, analiso a performance de um modelo de vetor autoregressivo com a performance de alguns modelos da literatura de machine learning.
