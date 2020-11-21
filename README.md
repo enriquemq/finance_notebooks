@@ -4,7 +4,7 @@ Uma coleção (em construção) de notebooks em finanças quantitativas em portu
 ## Sumário  
 ### [betting_against_beta_ibov.ipynb](https://github.com/enriquemq/finance_notebooks/blob/main/betting_against_beta_ibov.ipynb):
   - **Tópicos**: betting against beta, risk factor, alpha, beta, market anomaly
-  - **Resumo**: Aplico a metodologia apresetnada em Frazzini e Pedersen (2014) para avaliar a performance da estratégia de apostar contra o beta no período de dezembro de 2016 até maio de 2020, usando as ações do ibov como universo de investimento. 
+  - **Resumo**: Aplico a metodologia apresentada em Frazzini e Pedersen (2014) para avaliar a performance da estratégia de apostar contra o beta no período de dezembro de 2016 até maio de 2020 usando as ações do ibov como universo de investimento. 
 
 ### [factor_regression_analysis_top10FIAs.ipynb](https://github.com/enriquemq/finance_notebooks/blob/main/factor_regression_analysis_top10FIAs.ipynb):
   - **Tópicos**: factor analysis, risk factors, fundos de investimento, alpha, fama french
